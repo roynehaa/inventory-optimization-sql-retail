@@ -1,13 +1,13 @@
 # inventory-optimization-sql-retail
 SQL-based retail inventory analysis project for Consulting &amp; Analytics Club
-# 🛍️ Inventory Optimization using SQL (Urban Retail Co.)
+# Inventory Optimization using SQL (Urban Retail Co.)
 
 A SQL-powered inventory analysis project created for the Consulting & Analytics Club.  
 The objective was to diagnose inventory inefficiencies, suggest corrective actions, and simulate real-world impact for Urban Retail Co.
 
 ---
 
-## 🔍 Project Objectives
+## Project Objectives
 
 - Detect low-stock and overstock SKUs
 - Implement reorder flag logic
@@ -18,7 +18,7 @@ The objective was to diagnose inventory inefficiencies, suggest corrective actio
 
 ---
 
-## 🧮 Tools Used
+## Tools Used
 - SQL (SQLite)
 - Excel (data transformation)
 - Canva (dashboard + slide design)
@@ -26,7 +26,7 @@ The objective was to diagnose inventory inefficiencies, suggest corrective actio
 
 ---
 
-## 📊 Key Insights
+## Key Insights
 
 | Metric                  | Insight                                |
 |-------------------------|----------------------------------------|
@@ -38,7 +38,7 @@ The objective was to diagnose inventory inefficiencies, suggest corrective actio
 
 ---
 
-## 🛠️ Files Included
+## Files Included
 
 | File | Description |
 |------|-------------|
@@ -49,7 +49,7 @@ The objective was to diagnose inventory inefficiencies, suggest corrective actio
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add real-time dashboards (with Python or Power BI)
 - Apply forecasting models (moving average / linear regression)
@@ -57,7 +57,7 @@ The objective was to diagnose inventory inefficiencies, suggest corrective actio
 
 ---
 
-## 👩‍💻 Author
+## Author
 
 **Neha Roy**  
 Undergraduate, IIT Guwahati  
